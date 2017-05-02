@@ -1,0 +1,6 @@
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\bin\Debug\TP1 - TDA Basico.exe.config
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\bin\Debug\TP1 - TDA Basico.exe
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\bin\Debug\TP1 - TDA Basico.pdb
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\obj\Debug\TP1 - TDA Basico.csprojResolveAssemblyReference.cache
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\obj\Debug\TP1 - TDA Basico.exe
+G:\cruzerblade\UADE\Programacion II\TP1 - TDA Basico\TP1 - TDA Basico\obj\Debug\TP1 - TDA Basico.pdb
